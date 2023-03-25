@@ -1,0 +1,9 @@
+.volleSeite {
+    height: 100vh;
+    background: #D09CFA;
+}
+
+.centerCard {
+    display: flex;
+    justify-content: center;
+}
