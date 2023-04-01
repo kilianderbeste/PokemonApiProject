@@ -1,3 +1,10 @@
+:root {
+    --ptc1: #FFD700;
+    --ptc2: #F5F5F5;
+    --ptc3: #333333;
+    --cardBG: #628D2A;
+}
+
 .volleSeite {
     height: 100vh;
     background: #D09CFA;
@@ -6,4 +13,20 @@
 .centerCard {
     display: flex;
     justify-content: center;
+}
+
+.card {
+    background: var(--cardBG) !important;
+}
+
+.ptc-1 {
+    color: var(--ptc1) !important;
+}
+
+.ptc-2 {
+    color: var(--ptc2) !important;
+}
+
+.ptc-3 {
+    color: var(--ptc3) !important;
 }
