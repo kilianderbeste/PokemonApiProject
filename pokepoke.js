@@ -1,3 +1,4 @@
+// ASI: Automatic Semicolon Insertion
 const cardImage = document.querySelector(".card-image-top");
 
 const pokeName = document.querySelector(".pokeName");
