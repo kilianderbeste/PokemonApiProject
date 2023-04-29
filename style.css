@@ -30,3 +30,12 @@
 .ptc-3 {
     color: var(--ptc3) !important;
 }
+
+.pokeSearch {
+    width: 20vw !important;
+}
+
+.w-25 {
+    display: flex;
+    justify-content: right;
+}
